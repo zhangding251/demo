@@ -1,3 +1,3 @@
 #REDAME
 hello github
-hello.c
+arr.c
